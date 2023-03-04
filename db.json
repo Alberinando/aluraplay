@@ -90,6 +90,20 @@
       "url": "https://www.youtube.com/embed/rXFfntEuIiM",
       "imagem": "https://i.ytimg.com/vi/rXFfntEuIiM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb9U-cyRYhN2BCUfrujd0-XbakaA",
       "id": 12
+    },
+    {
+      "titulo": "Gestão moderna de produtos digitais",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/EfBAoovXJCo",
+      "imagem": "https://i.ytimg.com/vi/EfBAoovXJCo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwagvvzPKWPbCMpYOmqHyA7e-fhA",
+      "id": 13
+    },
+    {
+      "titulo": "Guia de Carreira PHP",
+      "descricao": "0 mil visualizações",
+      "url": "https://www.youtube.com/embed/ETohL_o3SEI",
+      "imagem": "https://i.ytimg.com/vi/ETohL_o3SEI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8aHMMK6A4tMozATBpns9U6GtFBA",
+      "id": 14
     }
   ]
 }
